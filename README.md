@@ -11,7 +11,7 @@ This project demonstrates how to build a classification model to determine wheth
 
 ## Code Structure
 python
-# Load and train the model
+- Load and train the model
 - classifier = MushroomClassifier("dataset/mushrooms.csv")
 - classifier.load_data()
 - classifier.preprocess()
